@@ -1,0 +1,7 @@
+#conactenation
+w = 'Thirty'
+x = ' Days'
+y = ' Of'
+z = ' Python'
+c = w+x+y+z
+print (c)
