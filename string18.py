@@ -1,3 +1,4 @@
+#Create an acronym or an abbreviation for the name 'Python For Everyone'.(Q18 and 19)
 #type 1
 x = 'Coding For All'
 a,b,c,d,e,f,g,h,i,j,k,l,m,n = x
