@@ -1,4 +1,4 @@
-#conactenation
+#Concatenate the string 'Thirty', 'Days', 'Of', 'Python' to a single string, 'Thirty Days Of Python'.
 w = 'Thirty'
 x = ' Days'
 y = ' Of'
